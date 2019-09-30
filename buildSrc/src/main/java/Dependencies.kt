@@ -8,7 +8,7 @@ object Repos {
 }
 
 object Versions {
-  val kotlin = "1.3.31"
+  val kotlin = "1.3.21"
 
   val okhttp = "3.10.0"
   val retorfit = "2.4.0"
